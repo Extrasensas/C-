@@ -1,0 +1,13 @@
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\bin\Debug\netcoreapp3.1\Kitm.exe
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\bin\Debug\netcoreapp3.1\Kitm.deps.json
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\bin\Debug\netcoreapp3.1\Kitm.runtimeconfig.json
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\bin\Debug\netcoreapp3.1\Kitm.runtimeconfig.dev.json
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\bin\Debug\netcoreapp3.1\Kitm.dll
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\bin\Debug\netcoreapp3.1\Kitm.pdb
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\obj\Debug\netcoreapp3.1\Kitm.csprojAssemblyReference.cache
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\obj\Debug\netcoreapp3.1\Kitm.AssemblyInfoInputs.cache
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\obj\Debug\netcoreapp3.1\Kitm.AssemblyInfo.cs
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\obj\Debug\netcoreapp3.1\Kitm.csproj.CoreCompileInputs.cache
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\obj\Debug\netcoreapp3.1\Kitm.dll
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\obj\Debug\netcoreapp3.1\Kitm.pdb
+C:\Users\moksleivis.KITM\source\repos\Kitm\Kitm\obj\Debug\netcoreapp3.1\Kitm.genruntimeconfig.cache
